@@ -23,7 +23,7 @@ description: Just a little sandbox to encourage me to play daily.
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/doggy.png"
 
 # List of links in the navigation bar
 navbar-links:
